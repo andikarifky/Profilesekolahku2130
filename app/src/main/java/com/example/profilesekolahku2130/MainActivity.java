@@ -3,6 +3,7 @@ package com.example.profilesekolahku2130;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 

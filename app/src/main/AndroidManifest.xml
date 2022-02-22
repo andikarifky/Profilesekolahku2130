@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Profilesekolahku2130">
         <activity
+            android:name=".EkskulActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PerpusActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GurudanStafActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
